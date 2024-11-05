@@ -1,3 +1,5 @@
+**GALAXY DETECTION USING QUANTUM MACHINE LEARNING**
+
 In this work, we demonstrated the ability to detect galaxies with an impressive accuracy of 94% using a quantum machine learning model applied to a NASA image. The process began with dividing the original galaxy image into smaller 16x16 pixel patches, which served as our input data for the model. This approach allowed us to break down the complex image into manageable pieces that could be processed more effectively by the quantum machine learning model.
 
 We then encoded and trained the data using a parameterized quantum circuit (PQC), inspired by the methods described in the paper "Expressibility and entangling capability of parameterized quantum circuits for hybrid quantum-classical algorithms" (arXiv:1905.10876). The PQC, chosen for its high expressibility and ability to capture complex relationships within the data, was implemented as the core of our quantum machine learning model.
